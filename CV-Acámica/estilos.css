@@ -1,0 +1,133 @@
+body {
+    background-color: #d8ddff;
+}
+
+h1, h2, h3, h4 {
+    color: #192874;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2:hover {
+    color: #f6f9ff;
+}
+
+.portafolio p {
+   color: #f6f9ff;
+}
+
+h2 {
+    padding: 10px;
+    border-radius: 6px;
+    background-color: #d8ddff;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p, li {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+.quote {
+    text-align: center;
+}
+
+.linea-titulo {
+    border: 2px solid #d8ddff;
+}
+
+.linea-punteada {
+    border: 1px dashed #d8ddff;
+}
+
+.foto {
+    border-radius: 150px;
+    margin-top: 0;
+}
+
+.alineacion-iconos {
+    padding-left: 70px;
+}
+
+/*.iconobank {
+    border-radius: 100px;
+}*/
+
+li {
+    list-style-type: none
+}
+
+.iconos {
+    float: left;
+ }
+
+ .icon-name {
+     text-align: center;
+ }
+
+ .nav {
+     padding: 1px;
+     /*border: 1px solid black;*/
+ }
+
+.perfil {
+    /*border: 1px solid black;*/
+    width: 29%;
+    height: 540px;
+    background-color: #5d88d0;
+    padding: 2.5%;
+    border-radius: 6px;
+    float: left;
+    text-align: center;
+    position: fixed;
+}
+
+.quiensoy {
+    /*border: 1px solid black;*/
+    width: 60%;
+    background-color: #5d88d0;
+    padding: 2.5%;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.formacion {
+    /*border: 1px solid black;*/
+    width: 60%;
+    background-color: #5d88d0;
+    padding: 2.5%;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.experiencia {
+    /*border: 1px solid black;*/
+    width: 60%;
+    background-color: #5d88d0;
+    padding: 2.5%;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+.portafolio {
+    /*border: 1px solid black;*/
+    width: 60%;
+    background-color: #5d88d0;
+    padding: 2.5%;
+    border-radius: 6px;
+    float: right;
+    margin-bottom: 10px;
+}
+
+
+
+
+
